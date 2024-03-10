@@ -1,0 +1,1 @@
+Create and share playlists with friends, adding a social dimension to music discovery.

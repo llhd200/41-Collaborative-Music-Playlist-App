@@ -1,0 +1,26 @@
+{
+"name": "41ofvjeg-2jf",
+"version": "1.0.0",
+"description": "Create and share playlists with friends, adding a social dimension to music discovery.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/llhd200/41-Collaborative-Music-Playlist-App.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "llhd200",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
